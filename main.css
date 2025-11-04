@@ -1,8 +1,38 @@
 header {
-    background-color: #55558a;
+    background-color: #442f17;
     padding: 0.8em;
 }
 nav {
     background-color: #8a5555;
-    padding: 1em;
+    padding: 0.1em;
+}
+nav ul {
+    padding: 0.2em;
+    list-style-type: none;
+    text-align: center;
+    font-size: 1.1em;
+}
+nav li {
+    display: inline;
+}
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    margin: 0 1em;
+}
+h1 {
+    color: rgb(228, 121, 121);
+    text-align: center;
+}
+body {
+    color: #442f17;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+a:link {
+    color: rgb(205, 248, 119);
+}
+a:visited {
+    color: rgb(121, 119, 248);
 }
