@@ -34,5 +34,22 @@ a:link {
     color: rgb(205, 248, 119);
 }
 a:visited {
-    color: rgb(121, 119, 248);
+    color: rgb(152, 150, 243);
+}
+footer {
+    clear: both;
+    padding-top: 1em;
+} 
+main {
+    float: left;
+    width: 48%;
+    margin-left: 2%;
+}
+aside {
+    float: left;
+    width: 48%;
+    margin-left: 2%;
+}
+body {
+    background-color: beige
 }
